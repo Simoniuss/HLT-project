@@ -240,3 +240,6 @@ pyrightconfig.json
 ### my files
 Papers/*
 Project advice.pdf
+models/*
+data/fnc/fnc_train.csv
+data/fnc/fnc_test.csv
